@@ -3,7 +3,7 @@
 Trabajo Práctico Integrador — Organización Empresarial
 TUP a Distancia (UTN) — Cohorte Marzo 2026
 
-**Integrantes:** Guadalupe Soraire — Luca Vaccaro
+**Integrantes:** Guadalupe Rosario Mallón — Luca Vaccaro
 
 ## Descripción
 
