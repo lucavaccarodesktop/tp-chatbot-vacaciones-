@@ -1,4 +1,4 @@
-# Bot de Gestión de Solicitud de Vacaciones
+# Bot de Gestión de Solicitud de Vacaciones Empresa Solutech S.A.
 
 Trabajo Práctico Integrador — Organización Empresarial
 TUP a Distancia (UTN) — Cohorte Marzo 2026
